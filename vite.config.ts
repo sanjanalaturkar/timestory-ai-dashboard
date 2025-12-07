@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/timestory-ai-dashboard/", // 👈 IMPORTANT for GitHub Pages
+  base: "/timestory-ai-dashboard/",   // ✅ must be exactly repo name with slashes
   server: {
     host: "::",
     port: 8080,
