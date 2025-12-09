@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+⏳ TimeStory AI — Daily Time Tracking & Analytics Dashboard
 
-## Project info
+TimeStory AI is a smart time-tracking web application that helps users log their daily activities, analyze how they spend 24 hours, and get meaningful insights using an AI-powered assistant.
+It is designed to improve productivity, routine planning, and mindful habit building.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🚀 Live Demo
 
-## How can I edit this code?
+🔗 Deployed App: https://timestory-ai.vercel.app/
 
-There are several ways of editing your application.
+🔗 GitHub Repository: https://github.com/sanjanalaturkar/timestory-ai-dashboard.github.io.git
 
-**Use Lovable**
+🎥 Video Walkthrough
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+📌 (https://drive.google.com/file/d/10FXZYhpn69ZRP2ggtAHBjM5j0JJWfXBL/view?usp=sharing)
+👉 2–5 minute YouTube or Google Drive link here
 
-Changes made via Lovable will be committed automatically to this repo.
+🛠️ Tech Stack
 
-**Use your preferred IDE**
+Frontend: React.js, Tailwind CSS
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+AI Tools Used: ChatGPT, Replit AI, GitHub Copilot
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Database & Auth: Firebase Authentication & Firestore
 
-Follow these steps:
+Deployment: Vercel
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+✨ Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🔐 Secure Login/Signup using Firebase
 
-# Step 3: Install the necessary dependencies.
-npm i
+🧠 AI-powered Insight Suggestions
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+⏱ Daily Activity Logging (Minutes-Based)
 
-**Edit a file directly in GitHub**
+📊 Analytics Dashboard
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🎛 Dynamic Pie Chart Visualization
 
-**Use GitHub Codespaces**
+📅 Day-Wise Data Storage
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+👀 Empty State View: "No Data Available"
 
-## What technologies are used for this project?
+🧹 Edit / Delete Activity Entries
 
-This project is built with:
+📱 Fully Responsive Design
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+💻 How to Run the Project Locally
 
-## How can I deploy this project?
+🖼️ Screenshots / UI Previews (Recommended)
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🔹 Login Page <img width="964" height="948" alt="Screenshot 2025-12-09 114819" src="https://github.com/user-attachments/assets/795a17ed-50de-437f-81b4-b262233cd6ed" />
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
+🔹 Add Activity Page<img width="1919" height="949" alt="Screenshot 2025-12-09 114727" src="https://github.com/user-attachments/assets/7b349338-ef61-423b-82af-f103a1ca38ed" />
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🔹 Empty “No Data” State<img width="1919" height="938" alt="Screenshot 2025-12-09 114743" src="https://github.com/user-attachments/assets/7ef5cb52-7a2f-4a09-afb8-c0410bdc6190" />
+
+
+❤️ Credits
+
+Developed by Sanjana Laturkar
+Using AI tools for:
+✔ brainstorming UI ideas
+✔ debugging Firebase setup
+✔ generating reusable code structure
